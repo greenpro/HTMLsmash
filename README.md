@@ -1,7 +1,7 @@
 # HTML Smash
 
 This project is an offshoot of my CraigCode1010.com project, which can be found at [project](https://github.com/greenpro/CraigCode1010) [site](https://www.craigcode1010.com). Full documentation for this 
-project, including images, code, and examples can be found at [CraigCode1010.com#htmlSmash](https://www.craigcode1010.com#htmlSmash) (coming soon). This project is used to compile the site to a static HTML 
+project, including images, code, and examples can be found at [CraigCode1010.com#htmlSmash](https://www.craigcode1010.com#htmlSmash). This project is used to compile the site to a static HTML 
 site. The project allows for multiple teplates and HTML parts to be compiled into a single static HTML page which can be easily served up from a small embedded server or quickly from a larger server with 
 minimal load on the system. This project has been designed and tested on linux through Bash on Ubuntu on Windows, though it should work on any OS as it is written in python. The project currently uses python 
 3.5 which comes pre-installed on most linux distros.
