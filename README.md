@@ -38,13 +38,20 @@ The target project can be setup in any layout required by the user. For an examp
 [here](https://github.com/greenpro/CraigCode1010/tree/master/content). The tag file may is more layout specific, and should be setup as:
 
 {
+
    tag: [ID] 
+
    template: [TEMPLATE_PATH_AND_FILE]
+
    part: [PART_PATH_AND_FILE]
+
    
    tag1: [VALUE_1]
+
    tag2: [VALUE_2]
+
    tag3: [VALUE_3]
+
 }
 
 The parts in brackets (including the brackets) should be replaced with the values for each. The system will ignore spaces, tabs, and extra new lines. The ID is the ID to look for in the compiling smash 
