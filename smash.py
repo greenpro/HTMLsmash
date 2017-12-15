@@ -76,7 +76,7 @@ def main():
         if tag in main:
             main = main.replace(tag, template)
         else:
-            print("Tag {{" + tag + "}} not found.")
+            print("Tag " + tag + " not found.")
 
     # Write the final file
     path = str(pathlib.Path.home()) + os.sep + config["basePath"] + os.sep + config["outputName"]
